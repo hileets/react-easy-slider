@@ -47,6 +47,10 @@
   "dependencies": {
     "url-loader": "^2.2.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hileets/react-easy-slider"
+  },
   "files": [
     "build",
     "README.md"
